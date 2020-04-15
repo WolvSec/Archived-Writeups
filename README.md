@@ -1,4 +1,4 @@
-# Wolverine Security CTF Writeup
+# Wolverine Security CTF Writeups
 
 This repo holds writeups from various CTF's written by WolvSec members. 
 *  2020 - folder for CTF writeups done in 2020.
