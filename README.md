@@ -21,6 +21,10 @@ Here is a list of other team's CTF writeups:
 
 * [Dragon Sector](https://blog.dragonsector.pl/)
 
+<h2>Portugale</h2>
+
+* [Team Rocket IST](https://teamrocketist.github.io/)
+
 <h2>South Korea</h2>
 
 * [Defenit](https://defenit.kr/)
